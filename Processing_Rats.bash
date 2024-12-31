@@ -1,4 +1,11 @@
 #!/bin/bash
+############################################################
+#Registration and segmentation of substantia nigra in longitudinal dataset of rat brain images
+#Authors : Jean-Baptiste Pérot, Arnaud Le Troter, Anthony Ruze
+#Used in "Longitudinal neuromelanin changes in prodromal and early Parkinson’s disease in humans and rat model"
+#DOI https://doi.org/10.1101/2024.10.22.619619
+#Dataset 10.5281/zenodo.14581127
+###########################################################
 
 export ANTS_RANDOM_SEED=1
 export ITK_GLOBAL_DEFAULT_NUMBER_OF_THREADS=8
